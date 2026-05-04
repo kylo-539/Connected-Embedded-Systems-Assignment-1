@@ -2,6 +2,7 @@
 # Assignment 1: DS3231 RTC Application
 # Grade: 93%
 ## Source code available upon request
+## Video Demonstration of the project linked [here](https://youtu.be/iW4nSuURiE8).
 
 ## Overview
 
